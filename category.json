@@ -1,42 +1,42 @@
 [
   {
     "name": "category.mobile_phones",
-    "image": "@/assets/images/category/electronics.png"
+    "image": "https://imgpx.com/EWywogPEGICi.png"
   },
   {
     "name": "category.fashion",
-    "image": "@/assets/images/category/fashion_bag.png"
+    "image": "https://imgpx.com/gKcpTlrfEfqS.png"
   },
   {
     "name": "category.furniture",
-    "image": "@/assets/images/category/furniture_sofa.png"
+    "image": "https://imgpx.com/HSx5MqyAS0Lm.png"
   },
   {
     "name": "category.industrial",
-    "image": "@/assets/images/category/industrial.png"
+    "image": "https://imgpx.com/AUsUEt3HMJiF.png"
   },
   {
     "name": "category.home_decor",
-    "image": "@/assets/images/category/home_decor.png"
+    "image": "https://imgpx.com/Yo8WTvnO1buJ.png"
   },
   {
     "name": "category.electronics",
-    "image": "@/assets/images/category/electronics_tv.png"
+    "image": "https://imgpx.com/653qSjRQV85x.png"
   },
   {
     "name": "category.health_care",
-    "image": "@/assets/images/category/health.png"
+    "image": "https://imgpx.com/IJI1dzld1UjR.png"
   },
   {
     "name": "category.construction_real_state",
-    "image": "@/assets/images/category/construction.png"
+    "image": "https://imgpx.com/PSo95Z6RmHip.png"
   },
   {
     "name": "category.fabrication_service",
-    "image": "@/assets/images/category/fabrication.png"
+    "image": "https://imgpx.com/odKbSqn0WEJN.png"
   },
   {
     "name": "category.electrical_equipment",
-    "image": "@/assets/images/category/electric_equipment.png"
+    "image": "https://imgpx.com/lIYQHzvR2Y14.png"
   }
 ]
