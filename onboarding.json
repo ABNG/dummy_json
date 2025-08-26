@@ -1,16 +1,16 @@
 [
   {
-    "image": "@/assets/images/onboarding/onboarding_1.png",
+    "image": "https://imgpx.com/MyFQP4xHjoZX.png",
     "title": "onboarding.title_one",
     "description": "onboarding.description_one"
   },
   {
-    "image": "@/assets/images/onboarding/onboarding_2.png",
+    "image": "https://imgpx.com/ou8eZ1YdibVR.png",
     "title": "onboarding.title_two",
     "description": "onboarding.description_two"
   },
   {
-    "image": "@/assets/images/onboarding/onboarding_3.png",
+    "image": "https://imgpx.com/a1FxGw3a0IDM.png",
     "title": "onboarding.title_three",
     "description": "onboarding.description_three"
   }
