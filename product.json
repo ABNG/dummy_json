@@ -1,6 +1,7 @@
 [
   {
     "id": "prod_001",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Loop Silicone Strong Magnetic Watch",
     "price": 15.25,
     "originalPrice": 20.0,
@@ -18,6 +19,7 @@
   },
   {
     "id": "prod_002",
+    "category_id": ["cat_002","cat_003","cat_004","cat_006","cat_008"],
     "name": "Urban Active Noise Cancelling Headphones",
     "price": 99.99,
     "originalPrice": 129.99,
@@ -35,6 +37,7 @@
   },
   {
     "id": "prod_003",
+    "category_id": ["cat_001","cat_002","cat_006","cat_007","cat_009"],
     "name": "Vintage Leather Messenger Bag",
     "price": 65.5,
     "originalPrice": null,
@@ -52,6 +55,7 @@
   },
   {
     "id": "prod_004",
+    "category_id": ["cat_001","cat_003","cat_004","cat_008","cat_010"],
     "name": "Smart Wi-Fi Coffee Maker",
     "price": 75.0,
     "originalPrice": null,
@@ -69,6 +73,7 @@
   },
   {
     "id": "prod_005",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Ergonomic Memory Foam Pillow",
     "price": 45.99,
     "originalPrice": null,
@@ -86,6 +91,7 @@
   },
   {
     "id": "prod_006",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Ultra-Thin Portable Power Bank",
     "price": 35.0,
     "originalPrice": 40.0,
@@ -103,6 +109,7 @@
   },
   {
     "id": "prod_007",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_010"],
     "name": "Wireless Gaming Mouse",
     "price": 55.99,
     "originalPrice": null,
@@ -120,6 +127,7 @@
   },
   {
     "id": "prod_008",
+    "category_id": ["cat_001","cat_002","cat_005","cat_007","cat_009"],
     "name": "Multi-Function Smart LED Desk Lamp",
     "price": 49.99,
     "originalPrice": null,
@@ -137,6 +145,7 @@
   },
   {
     "id": "prod_009",
+    "category_id": ["cat_001","cat_003","cat_004","cat_007","cat_009"],
     "name": "Digital Air Fryer",
     "price": 119.0,
     "originalPrice": 140.0,
@@ -151,6 +160,7 @@
   },
   {
     "id": "prod_010",
+    "category_id": ["cat_001","cat_003","cat_005","cat_006","cat_009"],
     "name": "Resistance Bands Set",
     "price": 25.0,
     "originalPrice": null,
@@ -165,6 +175,7 @@
   },
   {
     "id": "prod_011",
+    "category_id": ["cat_001","cat_003","cat_005","cat_008","cat_009"],
     "name": "Premium Stainless Steel Water Bottle",
     "price": 22.5,
     "originalPrice": null,
@@ -179,6 +190,7 @@
   },
   {
     "id": "prod_012",
+    "category_id": ["cat_002","cat_003","cat_005","cat_007","cat_009"],
     "name": "Compact Digital Camera",
     "price": 150.0,
     "originalPrice": 180.0,
@@ -193,6 +205,7 @@
   },
   {
     "id": "prod_013",
+    "category_id": ["cat_001","cat_004","cat_005","cat_007","cat_009"],
     "name": "Soft Cotton Crewneck Sweatshirt",
     "price": 35.0,
     "originalPrice": null,
@@ -207,6 +220,7 @@
   },
   {
     "id": "prod_014",
+    "category_id": ["cat_001","cat_003","cat_006","cat_008","cat_009"],
     "name": "Portable Bluetooth Speaker",
     "price": 59.99,
     "originalPrice": null,
@@ -221,6 +235,7 @@
   },
   {
     "id": "prod_015",
+    "category_id": ["cat_002","cat_003","cat_005","cat_007","cat_010"],
     "name": "Eco-Friendly Reusable Grocery Bags",
     "price": 12.0,
     "originalPrice": null,
@@ -235,6 +250,7 @@
   },
   {
     "id": "prod_016",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "High-Speed USB-C Hub",
     "price": 29.99,
     "originalPrice": 35.99,
@@ -249,6 +265,7 @@
   },
   {
     "id": "prod_017",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Waterproof Adventure Backpack",
     "price": 89.0,
     "originalPrice": null,
@@ -263,6 +280,7 @@
   },
   {
     "id": "prod_018",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Stainless Steel Digital Kitchen Scale",
     "price": 19.99,
     "originalPrice": null,
@@ -277,6 +295,7 @@
   },
   {
     "id": "prod_019",
+    "category_id": ["cat_001","cat_003","cat_005","cat_007","cat_009"],
     "name": "Compact Cordless Handheld Vacuum",
     "price": 49.0,
     "originalPrice": 60.0,
@@ -291,6 +310,7 @@
   },
   {
     "id": "prod_020",
+    "category_id": ["cat_002","cat_004","cat_006","cat_008","cat_010"],
     "name": "Organic Herbal Tea Sampler",
     "price": 18.5,
     "originalPrice": null,
