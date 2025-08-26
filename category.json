@@ -1,0 +1,42 @@
+[
+  {
+    "name": "category.mobile_phones",
+    "image": "@/assets/images/category/electronics.png"
+  },
+  {
+    "name": "category.fashion",
+    "image": "@/assets/images/category/fashion_bag.png"
+  },
+  {
+    "name": "category.furniture",
+    "image": "@/assets/images/category/furniture_sofa.png"
+  },
+  {
+    "name": "category.industrial",
+    "image": "@/assets/images/category/industrial.png"
+  },
+  {
+    "name": "category.home_decor",
+    "image": "@/assets/images/category/home_decor.png"
+  },
+  {
+    "name": "category.electronics",
+    "image": "@/assets/images/category/electronics_tv.png"
+  },
+  {
+    "name": "category.health_care",
+    "image": "@/assets/images/category/health.png"
+  },
+  {
+    "name": "category.construction_real_state",
+    "image": "@/assets/images/category/construction.png"
+  },
+  {
+    "name": "category.fabrication_service",
+    "image": "@/assets/images/category/fabrication.png"
+  },
+  {
+    "name": "category.electrical_equipment",
+    "image": "@/assets/images/category/electric_equipment.png"
+  }
+]

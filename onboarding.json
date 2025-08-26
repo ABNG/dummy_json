@@ -1,0 +1,17 @@
+[
+  {
+    "image": "@/assets/images/onboarding/onboarding_1.png",
+    "title": "onboarding.title_one",
+    "description": "onboarding.description_one"
+  },
+  {
+    "image": "@/assets/images/onboarding/onboarding_2.png",
+    "title": "onboarding.title_two",
+    "description": "onboarding.description_two"
+  },
+  {
+    "image": "@/assets/images/onboarding/onboarding_3.png",
+    "title": "onboarding.title_three",
+    "description": "onboarding.description_three"
+  }
+]
