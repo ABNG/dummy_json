@@ -102,8 +102,8 @@
     "colors": ["#36454F", "#A9A9A9"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://promate.net/cdn/shop/products/1200-SolarTank-20PDQi-1_800x.jpg",
+      "https://promate.net/cdn/shop/products/1200-SolarTank-20PDQi-10_800x.jpg"
     ],
     "quantity": 10
   },
@@ -120,8 +120,8 @@
     "colors": ["#DC143C", "#000000"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://promate.net/cdn/shop/files/Promate-Blix-3M-Ecomm-Black-01_800x.jpg",
+      "https://promate.net/cdn/shop/files/Promate-Blix-3M-Ecomm-Black-09_800x.jpg"
     ],
     "quantity": 10
   },
@@ -138,8 +138,8 @@
     "colors": ["#FFFFFF", "#D3D3D3"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://promate.net/cdn/shop/files/Globe-QI-Ecom-01_800x.jpg",
+      "https://promate.net/cdn/shop/files/Globe-QI-Ecom-03_800x.jpg"
     ],
     "quantity": 10
   },
@@ -155,7 +155,7 @@
     "tags": ["Top Rated", "On Sale"],
     "colors": ["#1A1A1A"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://cdn11.bigcommerce.com/s-6jzqtjaazb/images/stencil/1280w/products/653/2771/CK354__52692.1716452014.jpg"],
     "quantity": 10
   },
   {
@@ -170,7 +170,7 @@
     "tags": ["Free Shipping"],
     "colors": ["#FF0000", "#FFFF00", "#0000FF"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://promate.net/cdn/shop/files/SilicaBand-Pro-Ecom_1_800x.jpg"],
     "quantity": 10
   },
   {
@@ -185,7 +185,7 @@
     "tags": ["Top Rated"],
     "colors": ["#C0C0C0", "#000000", "#008080"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://www.tellurian-uae.com/cdn/shop/files/DamonWaterBottles1.png"],
     "quantity": 10
   },
   {
@@ -200,7 +200,7 @@
     "tags": ["On Sale"],
     "colors": ["#808080", "#000000"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://sonyworld.ae/cdn/shop/products/zv-1f.jpg"],
     "quantity": 10
   },
   {
@@ -215,7 +215,7 @@
     "tags": ["Free Shipping"],
     "colors": ["#DCDCDC", "#4682B4", "#556B2F"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://laboosh.com/cdn/shop/files/EverydaySuperSoftCottonSweatshirt-Front.jpg"],
     "quantity": 10
   },
   {
@@ -230,7 +230,7 @@
     "tags": ["Top Rated"],
     "colors": ["#000000", "#FF4500", "#008080"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://promate.net/cdn/shop/files/Strike-80Ecom_1_800x.jpg"],
     "quantity": 10
   },
   {
@@ -245,7 +245,7 @@
     "tags": ["New Arrival", "Free Shipping"],
     "colors": ["#32CD32", "#FF6347", "#4682B4"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://dimpflmeierbakery.com/cdn/shop/products/4BACB1A4-33A4-448F-B46E-EE43DFB4465F.jpg"],
     "quantity": 10
   },
   {
@@ -260,7 +260,7 @@
     "tags": ["On Sale"],
     "colors": ["#A9A9A9"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://promate.net/cdn/shop/files/LinkHub-5X_1_800x.jpg"],
     "quantity": 10
   },
   {
@@ -275,7 +275,7 @@
     "tags": ["Top Rated"],
     "colors": ["#2F4F4F", "#6A5ACD"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://promate.net/cdn/shop/files/Oracle-BPEcom-01_800x.jpg"],
     "quantity": 10
   },
   {
@@ -290,7 +290,7 @@
     "tags": ["New Arrival"],
     "colors": ["#D3D3D3", "#C0C0C0"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://cdn11.bigcommerce.com/s-z1j8jc5ejl/images/stencil/500x659/products/522843/718865/nobrand_kws_ss_10kg_01__30140.1726075273.jpg"],
     "quantity": 10
   },
   {
@@ -305,7 +305,7 @@
     "tags": ["On Sale", "Free Shipping"],
     "colors": ["#000000"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://www.daewooelectricals.com/images/daewoo-11-1v-compact-pro-cordless-handheld-vacuum-cleaner-p734-6580_image.jpg"],
     "quantity": 10
   },
   {
@@ -320,7 +320,7 @@
     "tags": ["Top Rated"],
     "colors": ["#8B4513", "#A52A2A", "#006400"],
     "sizes": ["XS", "S", "M", "L", "XL"],
-    "imageUrls": ["https://placehold.co/600x400.png"],
+    "imageUrls": ["https://cdn11.bigcommerce.com/s-8466dwhhql/images/stencil/1920w/products/1980/3706/Herbal_Sampler_1__05744.1700002788.jpg"],
     "quantity": 10
   }
 ]
