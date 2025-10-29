@@ -30,8 +30,8 @@
     "colors": ["#000000", "#FFFFFF", "#FFD700"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://promate.net/cdn/shop/files/VuTuneEcom_1_800x.jpg",
+      "https://promate.net/cdn/shop/files/VuTuneEcom_8_800x.jpg"
     ],
     "quantity": 10
   },
@@ -48,8 +48,8 @@
     "colors": ["#8B4513", "#696969"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://www.thejacketmaker.ae/cdn/shop/files/TheCarismaticoVintageDistressedBrownLeatherMessengerBagStraps_1512x.jpg",
+      "https://www.thejacketmaker.ae/cdn/shop/files/TheCarismaticoVintageDistressedBrownLeatherMessengerBagBack_1512x.jpg"
     ],
     "quantity": 10
   },
@@ -66,8 +66,8 @@
     "colors": ["#D3D3D3", "#C0C0C0"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://smarter.am/cdn/shop/products/Shopify-Product-Coffee-FC-3DCoffee-3-copy-2_1200x.png",
+      "https://smarter.am/cdn/shop/products/Shopify-Product-Coffee-FC-3DCoffee-3-copyAA_1200x.png"
     ],
     "quantity": 10
   },
@@ -84,8 +84,8 @@
     "colors": ["#F5F5DC", "#FFFFFF"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "imageUrls": [
-      "https://placehold.co/600x400.png",
-      "https://placehold.co/600x400.png"
+      "https://www.ikea.com/ae/en/images/products/rosenskaerm-ergonomic-pillow-side-back-sleeper__0722542_pe733642_s5.jpg",
+      "https://www.ikea.com/ae/en/images/products/rosenskaerm-ergonomic-pillow-side-back-sleeper__0795713_ph162857_s5.jpg"
     ],
     "quantity": 10
   },
